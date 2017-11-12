@@ -1,39 +1,44 @@
-{"version_code":451194,"content":"
-<p>تحديث 6.10</p>
+{"version_code":451197,"content":"
+<p>تحديث 6.15</p>
 
-<li>التحديث لنسخة الماركت 2.17.223</li>
-<li>(حصريا) خيار يتضمن أكثر المميزات إستخداما (حسب طلب المستخدمين)</li>
-<li>إمكانية تغيير خط البرنامج تم اضافة 30 خط (من الاضافات والخصائص - تغيير خط البرنامج 11)</li>
-<li>إضافة إمكانية إرسال رسائل مجدولة (قم بكتابة رسالة وحدد موعد ارسال الرسالة وسيتم ارسالها تلقائيا) افتح الواتس ثم خيارات ثم رسالة مجدولة</li>
-<li>إمكانية معرفة الشخص الذي قام بمشاهدة حالتك (الستوري) فعل الخيار 2.5.8</li>
-<li>يمكنك الان تعديل الصور قبل ارسالها من المعرض</li>
-<li>يمكنك الان تحديد مجموعة من الفيديوهات وإرسالها بوقت واحد</li>
-<li>إمكانية مشاهدة الحالات التي قمت بمشاهدتها سابقا من خلال الذهاب ل (الستوري - خيارات - عرض الحالات المشاهدة)</li>
-<li>إضافة الخيار رقم 2.4.15 لتغيير لون اسم قائمة الرسائل الجماعية عند إعادة توجيه رسالة ما</li>
-<li>إضافة الخيار رقم 1.2.58 لتغيير لون المنشن في المحادثة</li>
-<li>إضافة الخيار رقم 1.2.59 لتغيير لون ايقونة الرسائل الجماعية في المحادثة</li>
-<li>إضافة الخيار رقم 2.2.36 لتغيير لون المنشن في شاشة الدردشات</li>
-<li>إضافة الخيار رقم 1.2.60 لتغيير لون هنالك رسائل غير مقروءة في المحادثة</li>
-<li>إضافة الخيار رقم 1.2.61 لتغيير لون فقاعة هنالك رسائل غير مقروءة في المحادثة</li>
-<li>إضافة الخيار رقم 1.2.62 لتغيير لون خلفية هنالك رسائل غير مقروءة في المحادثة</li>
+<li>التحديث لنسخة الماركت 2.17.351</li>
+<li>يمكنك إرسالة حالة أكثر من 30 ثانية في الستوري (لا محدود)</li>
+<li>يمكنك الآن إرسال رسالة جماعية للمجموعات</li>
+<li>الآن عند مسح الرسائل يمكنك مسح فقط الرسائل الخاصة او فقط رسائل المجموعات او الجميع</li>
+<li>يمكك الآن منع حذف الرسائل من جهازك اذا حاول احد ما استرداد الرسالة من جهازك(خيارات-الخصوصية-منع حذف الرسائل)</li>
+<li>تفعيل ميزة الفلاتر لتعديل الصور قبل إرسالها</li>
+<li>تفعيل ميزة مشاركة الموقع المباشر مع الاصدقاء</li>
+<li>يمكنك الان تحديد عدة رسائل واستعادتها بوقت واحد</li>
+<li>إضافة الخيار رقم 1.2.63 لعرض الرسائل الطويلة بدون ظهور (قراءة المزيد...)</li>
+<li>يمكنك الان انشاء رسالة مجدولة لعدة اشخاص بوقت واحد(من خلال الاختيار المتعدد للاسماء)</li>
+<li>إضافة الخيار رقم 1.1.15 لإظهار اسم جهة الاتصال في منتصف الشاشة</li>
+<li>يمكنك الآن نسخ الحالات الكتابية(الستوري)</li>
+<li>تفعيل ميزة الرد السريع (حدد اي رسالة ثم اضغط على صندوق الإرسال للرد عليها)</li>
+<li>يمكنك الان تحديد حتى 100 مستند بدلا من 30 مستند</li>
+<li>يمكنك الآن معرفة حجم التخزين المستعمل لكل محادثة(الاعدادات-حجم البيانات والتخزين المستخدم-حجم التخزين المستعمل)</li>
+<li>إصلاح عدم ظهور الخريطة عند إرسال الموقع الخاص بك</li>
+<li>إصلاح اغلاق درج الفيسات عند السحب للاعلى</li>
 <li>إصلاحات اخرى</li>
 
-
-<li> New Updated Base to 2.17.223 (Playstore) </li>
-<li> (Exclusive)Creat option contains most popular features(users request) </li>
-<li> Super Exclusive Message Scheduler (Open Options on Main Screen & Select Message Scheduler) </li>
-<li> Added in Exclusive Way Ability to Change Fonts (App Size Remains the Same as We have made it Online for Selecting Fonts) (Mod 11) (For first time, it will take bit time) </li>
-<li> Toast When Anyone Views your Status/Story (Mod 2.5.8)</li>
-<li> Ability to send multiple videos at the same time</li>
-<li> Added Doodle (Now add edit pics with emojis & text) when choose pic from Gallery</li>
-<li> Updated Now Status/Story will directly download when click on download</li>
-<li> Added View all Status as a list (go to Status Tab and click Options) </li>
-<li> Added Option to Change Mention Color in Chat Screen (Mod 1.2.58)</li>
-<li> Added Option to Change Mention Color on Main Screen (Mod 2.2.36)</li>
-<li> Added Option to Change Color of Broadcast List when Forward Msg (Mod 2.4.15)</li>
-<li> Added Option to Change Color of Broadcast Icon (Mod 1.2.59)</li>
-<li> Added Option to Change Color of Unread Message in Chat Screen (Mod 1.2.59 to Mod 1.2.61)</li>
-<li> Fixed WAMOD Entry Style</li>
+<li> New Base Updated to 2.17.351 (PlayStore) </li>
+<li> Ability to send video up to 30 to stories</li>
+<li> Ability to Send Text Broadcast to Groups (Only Text Messages) </li>
+<li> Ability to Filter Message when Clear Chat</li>
+<li> Added Anti-Revoke (Options - Privacy) </li>
+<li> Fixed Maps when send Location</li>
+<li> Enabled Live Location Sharing</li>
+<li> Enabled Image/Video Filters (Effects when Send Images) </li>
+<li> Added Option for Centre Names in Conversation Header (Mod 1.1.15)</li>
+<li> Enabled Advance Storage Management (Settings - Data & Storage) </li>
+<li> Enabled Quick Reply (Press and Hold any message and click on the Text Entry) </li>
+<li> Added Custom Anti Revoke</li>
+<li> Added Ability to Revoke Multiple Message at Once</li>
+<li> Added Ability to Copy Text Status (Open Options & Click on Copy) </li>
+<li> Added Ability to Remove Read More option for Long Messages (Mod 1.2.63)</li>
+<li> Added Ability to Send 100 Documents instead of 30</li>
+<li> Added Themed Emoji & GIF Search</li>
+<li> Updated Ability to Select Multiple Contacts in Scheduler for a Single Message (Press and Hold the contact you want to select) </li>
+<li> Fixed Emoji Scroll</li>
 <li> Other Fixes</li>
 
 ","url":"http://mmmods.blogspot.com"
